@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: 6821f1d782abc71418392f9959592dd2
+timeCreated: 1565672053
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: Demon
+    100004: Fire_Demon
+    100006: RigHead
+    100008: RigLArm1
+    100010: RigLArm2
+    100012: RigLArmIndex1
+    100014: RigLArmIndex2
+    100016: RigLArmIndex3
+    100018: RigLArmMiddle1
+    100020: RigLArmMiddle2
+    100022: RigLArmMiddle3
+    100024: RigLArmPalm
+    100026: RigLArmPinky1
+    100028: RigLArmPinky2
+    100030: RigLArmPinky3
+    100032: RigLArmThumb1
+    100034: RigLArmThumb2
+    100036: RigLArmThumb3
+    100038: RigLLeg1
+    100040: RigLLeg2
+    100042: RigLLegAnkle
+    100044: RigLLegFoot1
+    100046: RigMouth
+    100048: RigNeck
+    100050: RigPelvis
+    100052: RigRArm1
+    100054: RigRArm2
+    100056: RigRArmIndex1
+    100058: RigRArmIndex2
+    100060: RigRArmIndex3
+    100062: RigRArmMiddle1
+    100064: RigRArmMiddle2
+    100066: RigRArmMiddle3
+    100068: RigRArmPalm
+    100070: RigRArmPinky1
+    100072: RigRArmPinky2
+    100074: RigRArmPinky3
+    100076: RigRArmThumb1
+    100078: RigRArmThumb2
+    100080: RigRArmThumb3
+    100082: RigRibcage
+    100084: RigRLeg1
+    100086: RigRLeg2
+    100088: RigRLegAnkle
+    100090: RigRLegFoot1
+    100092: RigSpine1
+    100094: RigSpine2
+    100096: RigSpine3
+    100098: RigTail1
+    100100: RigTail2
+    100102: RigTail3
+    100104: RigTail4
+    100106: RigTail5
+    100108: RigTail6
+    100110: RigTail7
+    100112: //RootNode
+    400000: CINEMA_4D_Editor
+    400002: Demon
+    400004: Fire_Demon
+    400006: RigHead
+    400008: RigLArm1
+    400010: RigLArm2
+    400012: RigLArmIndex1
+    400014: RigLArmIndex2
+    400016: RigLArmIndex3
+    400018: RigLArmMiddle1
+    400020: RigLArmMiddle2
+    400022: RigLArmMiddle3
+    400024: RigLArmPalm
+    400026: RigLArmPinky1
+    400028: RigLArmPinky2
+    400030: RigLArmPinky3
+    400032: RigLArmThumb1
+    400034: RigLArmThumb2
+    400036: RigLArmThumb3
+    400038: RigLLeg1
+    400040: RigLLeg2
+    400042: RigLLegAnkle
+    400044: RigLLegFoot1
+    400046: RigMouth
+    400048: RigNeck
+    400050: RigPelvis
+    400052: RigRArm1
+    400054: RigRArm2
+    400056: RigRArmIndex1
+    400058: RigRArmIndex2
+    400060: RigRArmIndex3
+    400062: RigRArmMiddle1
+    400064: RigRArmMiddle2
+    400066: RigRArmMiddle3
+    400068: RigRArmPalm
+    400070: RigRArmPinky1
+    400072: RigRArmPinky2
+    400074: RigRArmPinky3
+    400076: RigRArmThumb1
+    400078: RigRArmThumb2
+    400080: RigRArmThumb3
+    400082: RigRibcage
+    400084: RigRLeg1
+    400086: RigRLeg2
+    400088: RigRLegAnkle
+    400090: RigRLegFoot1
+    400092: RigSpine1
+    400094: RigSpine2
+    400096: RigSpine3
+    400098: RigTail1
+    400100: RigTail2
+    400102: RigTail3
+    400104: RigTail4
+    400106: RigTail5
+    400108: RigTail6
+    400110: RigTail7
+    400112: //RootNode
+    4300000: Fire_Demon
+    7400000: Boss3_Roar
+    7400002: Boss3_Idle
+    7400004: Boss3_Bat
+    7400006: Boss3_Attack_2
+    7400008: Boss3_Attack_1
+    7400010: Boss3_Laser_charge
+    7400012: Boss3_Laser_Shoot
+    7400014: Boss3_Laser_Keep
+    7400016: Boss3_Laser_Return
+    7400018: Boss3_hurt
+    7400020: Boss3_Groggy_keep
+    7400022: Boss3_Groggy_recover
+    7400024: Boss3_Groggy_hit
+    7400026: Boss3_Groggy_death
+    7400028: Boss3_Paralysis_Start
+    7400030: Boss3_Paralysis_keep
+    7400032: Boss3_Paralysis_end
+    7400034: Boss3_Attack_start
+    7400036: Boss3_Attack_charge
+    7400038: Boss3_Attack_attack
+    7400040: Boss3_Attack_charge2
+    9500000: //RootNode
+    13700000: Fire_Demon
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Boss3_Roar
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Idle
+      takeName: CINEMA_4D_Main
+      firstFrame: 152
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Bat
+      takeName: CINEMA_4D_Main
+      firstFrame: 191
+      lastFrame: 236
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Attack_1
+      takeName: CINEMA_4D_Main
+      firstFrame: 237
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Attack_2
+      takeName: CINEMA_4D_Main
+      firstFrame: 301
+      lastFrame: 337
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Laser_charge
+      takeName: CINEMA_4D_Main
+      firstFrame: 341
+      lastFrame: 435
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Laser_Shoot
+      takeName: CINEMA_4D_Main
+      firstFrame: 436
+      lastFrame: 442
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Laser_Keep
+      takeName: CINEMA_4D_Main
+      firstFrame: 443
+      lastFrame: 510
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Laser_Return
+      takeName: CINEMA_4D_Main
+      firstFrame: 511
+      lastFrame: 525
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_hurt
+      takeName: CINEMA_4D_Main
+      firstFrame: 526
+      lastFrame: 550
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Groggy_keep
+      takeName: CINEMA_4D_Main
+      firstFrame: 671
+      lastFrame: 720
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Groggy_recover
+      takeName: CINEMA_4D_Main
+      firstFrame: 721
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Groggy_hit
+      takeName: CINEMA_4D_Main
+      firstFrame: 771
+      lastFrame: 830
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Groggy_death
+      takeName: CINEMA_4D_Main
+      firstFrame: 831
+      lastFrame: 1050
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Paralysis_Start
+      takeName: Take 001
+      firstFrame: 1055
+      lastFrame: 1080
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Paralysis_keep
+      takeName: Take 001
+      firstFrame: 1080
+      lastFrame: 1101
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Paralysis_end
+      takeName: Take 001
+      firstFrame: 1101
+      lastFrame: 1112
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Attack_start
+      takeName: Take 001
+      firstFrame: 237
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Attack_charge
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 252
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss3_Attack_attack
+      takeName: Take 001
+      firstFrame: 252
+      lastFrame: 300
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Demon
+        weight: 1
+      - path: Demon/Fire_Demon
+        weight: 1
+      - path: Demon/RigPelvis
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigLLeg1/RigLLeg2/RigLLegAnkle/RigLLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle
+        weight: 1
+      - path: Demon/RigPelvis/RigRLeg1/RigRLeg2/RigRLegAnkle/RigRLegFoot1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmIndex1/RigLArmIndex2/RigLArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmMiddle1/RigLArmMiddle2/RigLArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmPinky1/RigLArmPinky2/RigLArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigLArm1/RigLArm2/RigLArmPalm/RigLArmThumb1/RigLArmThumb2/RigLArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigNeck/RigHead/RigMouth
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmIndex1/RigRArmIndex2/RigRArmIndex3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmMiddle1/RigRArmMiddle2/RigRArmMiddle3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmPinky1/RigRArmPinky2/RigRArmPinky3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigRArm1/RigRArm2/RigRArmPalm/RigRArmThumb1/RigRArmThumb2/RigRArmThumb3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6
+        weight: 1
+      - path: Demon/RigPelvis/RigSpine1/RigSpine2/RigSpine3/RigRibcage/RigTail1/RigTail2/RigTail3/RigTail4/RigTail5/RigTail6/RigTail7
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

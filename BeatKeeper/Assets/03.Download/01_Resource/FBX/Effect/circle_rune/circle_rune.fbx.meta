@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: d9cc0eded4f659c4bb72828a0dc6977a
+timeCreated: 1570696036
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: //RootNode
+    100004: Disc_1
+    100006: Disc__10
+    100008: Disc__11
+    100010: Disc__12
+    100012: Disc__13
+    100014: Disc__14
+    100016: Disc__15
+    100018: Disc__16
+    100020: Disc__17
+    100022: Disc__18
+    100024: Disc__19
+    100026: Disc__2
+    100028: Disc__20
+    100030: Disc__21
+    100032: Disc__22
+    100034: Disc__25
+    100036: Disc__26
+    100038: Disc__27
+    100040: Disc__28
+    100042: Disc__29
+    100044: Disc__3
+    100046: Disc__30
+    100048: Disc__4
+    100050: Disc__5
+    100052: Disc__6
+    100054: Disc__7
+    100056: Disc__8
+    100058: Disc__9
+    100060: Polygon_23
+    100062: Polygon_24
+    100064: Rune_circle
+    100066: Rune_circle_Blue
+    400000: CINEMA_4D_Editor
+    400002: //RootNode
+    400004: Disc_1
+    400006: Disc__10
+    400008: Disc__11
+    400010: Disc__12
+    400012: Disc__13
+    400014: Disc__14
+    400016: Disc__15
+    400018: Disc__16
+    400020: Disc__17
+    400022: Disc__18
+    400024: Disc__19
+    400026: Disc__2
+    400028: Disc__20
+    400030: Disc__21
+    400032: Disc__22
+    400034: Disc__25
+    400036: Disc__26
+    400038: Disc__27
+    400040: Disc__28
+    400042: Disc__29
+    400044: Disc__3
+    400046: Disc__30
+    400048: Disc__4
+    400050: Disc__5
+    400052: Disc__6
+    400054: Disc__7
+    400056: Disc__8
+    400058: Disc__9
+    400060: Polygon_23
+    400062: Polygon_24
+    400064: Rune_circle
+    400066: Rune_circle_Blue
+    2300000: Disc_1
+    2300002: Disc__10
+    2300004: Disc__11
+    2300006: Disc__12
+    2300008: Disc__13
+    2300010: Disc__14
+    2300012: Disc__15
+    2300014: Disc__16
+    2300016: Disc__17
+    2300018: Disc__18
+    2300020: Disc__19
+    2300022: Disc__2
+    2300024: Disc__20
+    2300026: Disc__21
+    2300028: Disc__22
+    2300030: Disc__25
+    2300032: Disc__26
+    2300034: Disc__27
+    2300036: Disc__28
+    2300038: Disc__29
+    2300040: Disc__3
+    2300042: Disc__30
+    2300044: Disc__4
+    2300046: Disc__5
+    2300048: Disc__6
+    2300050: Disc__7
+    2300052: Disc__8
+    2300054: Disc__9
+    2300056: Polygon_23
+    2300058: Polygon_24
+    3300000: Disc_1
+    3300002: Disc__10
+    3300004: Disc__11
+    3300006: Disc__12
+    3300008: Disc__13
+    3300010: Disc__14
+    3300012: Disc__15
+    3300014: Disc__16
+    3300016: Disc__17
+    3300018: Disc__18
+    3300020: Disc__19
+    3300022: Disc__2
+    3300024: Disc__20
+    3300026: Disc__21
+    3300028: Disc__22
+    3300030: Disc__25
+    3300032: Disc__26
+    3300034: Disc__27
+    3300036: Disc__28
+    3300038: Disc__29
+    3300040: Disc__3
+    3300042: Disc__30
+    3300044: Disc__4
+    3300046: Disc__5
+    3300048: Disc__6
+    3300050: Disc__7
+    3300052: Disc__8
+    3300054: Disc__9
+    3300056: Polygon_23
+    3300058: Polygon_24
+    4300000: Disc_1
+    4300002: Disc__2
+    4300004: Disc__3
+    4300006: Disc__4
+    4300008: Disc__5
+    4300010: Disc__6
+    4300012: Disc__7
+    4300014: Disc__8
+    4300016: Disc__9
+    4300018: Disc__10
+    4300020: Disc__11
+    4300022: Disc__12
+    4300024: Disc__13
+    4300026: Disc__14
+    4300028: Disc__15
+    4300030: Disc__16
+    4300032: Disc__17
+    4300034: Disc__18
+    4300036: Disc__19
+    4300038: Disc__20
+    4300040: Disc__21
+    4300042: Disc__22
+    4300044: Polygon_23
+    4300046: Polygon_24
+    4300048: Disc__25
+    4300050: Disc__26
+    4300052: Disc__27
+    4300054: Disc__28
+    4300056: Disc__29
+    4300058: Disc__30
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

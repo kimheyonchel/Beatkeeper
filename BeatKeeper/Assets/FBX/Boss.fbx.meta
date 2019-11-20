@@ -1,0 +1,2264 @@
+fileFormatVersion: 2
+guid: 7d045194637d09c4fb1c72265c2cc7fa
+timeCreated: 1502600501
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_horn
+    100002: arm_horn_1
+    100004: arm_horn_1_2
+    100006: arm_horn_2
+    100008: arm_horn_2_2
+    100010: arm_horn_2_3
+    100012: Armo_etc
+    100014: Armo_etc_jnt
+    100016: armor_acc
+    100018: armor_acc_2
+    100020: armor_acc_3
+    100022: armor_acc_4
+    100024: back_spine_2_jnt
+    100026: back_spine_3_jnt
+    100028: back_spine_4_jnt
+    100030: //RootNode
+    100032: Boss_body
+    100034: boss_body
+    100036: Boss_Helmet
+    100038: Boss_Pelvis_jnt
+    100040: Boss_shoes
+    100042: Burcle
+    100044: devil_face
+    100046: devil_face_2
+    100048: devil_face_3
+    100050: devil_face_4
+    100052: eye
+    100054: face
+    100056: Helmet
+    100058: Helmet_Horn
+    100060: horn
+    100062: horn_2
+    100064: horn_2_2
+    100066: horn_3
+    100068: horn_3_2
+    100070: horn_4
+    100072: jaw_jnt
+    100074: jaw_tip
+    100076: Lf_acc_tip
+    100078: Lf_arm_A_hand_jnt
+    100080: Lf_arm_A_thumb_jnt
+    100082: Lf_arm_acc_jnt
+    100084: Lf_arm_B_hand_jnt
+    100086: Lf_arm_B_thumb_jnt
+    100088: Lf_arm_elbow_jnt
+    100090: Lf_arm_shoulder_jnt
+    100092: Lf_arm_wrist_jnt
+    100094: Lf_hand_tip
+    100096: Lf_leg_Ankle_jnt
+    100098: Lf_leg_Knee_jnt
+    100100: Lf_leg_thigh_jnt
+    100102: Lf_leg_tip
+    100104: Lf_shoulder_acc_jnt
+    100106: Lf_thumb_tip
+    100108: Lf_under_eye1
+    100110: Lf_under_eye2
+    100112: Lf_under_eye3
+    100114: Lf_under_mouth1
+    100116: Lf_under_mouth2
+    100118: Lf_up_eye1
+    100120: Lf_up_eye2
+    100122: Lf_up_eye3
+    100124: Lf_up_eye4
+    100126: Lf_up_mouth1
+    100128: Lf_up_mouth2
+    100130: manto_burcle_1
+    100132: manto_burcle_2
+    100134: manto_burcle_3
+    100136: manto_burcle_4
+    100138: Monster_Boss_jnt
+    100140: Monster_Boss_MD
+    100142: mouth
+    100144: neck_jnt
+    100146: neck_tip
+    100148: Rt_acc_tip
+    100150: Rt_arm_A_hand_jnt
+    100152: Rt_arm_A_hand_jnt_2
+    100154: Rt_arm_A_thumb_jnt
+    100156: Rt_arm_acc_jnt
+    100158: Rt_arm_B_hand_jnt
+    100160: Rt_arm_B_hand_jnt_2
+    100162: Rt_arm_B_thumb_jnt
+    100164: Rt_arm_elbow_jnt
+    100166: Rt_arm_shoulder_jnt
+    100168: Rt_arm_wrist_jnt
+    100170: Rt_hand_tip
+    100172: Rt_hand_tip_2
+    100174: Rt_leg_Ankle_jnt
+    100176: Rt_leg_Knee_jnt
+    100178: Rt_leg_thigh_jnt
+    100180: Rt_leg_tip
+    100182: Rt_shoulder_acc_jnt
+    100184: Rt_thumb_tip
+    100186: Rt_under_eye1
+    100188: Rt_under_eye2
+    100190: Rt_under_eye3
+    100192: Rt_under_mouth1
+    100194: Rt_under_mouth2
+    100196: Rt_up_eye1
+    100198: Rt_up_eye2
+    100200: Rt_up_eye3
+    100202: Rt_up_eye4
+    100204: Rt_up_mouth1
+    100206: Rt_up_mouth2
+    100208: Shied_armo1_tip
+    100210: Shied_armo1_tip_2
+    100212: Shied_armo_1
+    100214: Shied_armo_1_Bar
+    100216: Shied_armo_1_Bar_2
+    100218: Shied_armo_1_Pos_jnt
+    100220: Shied_armo_1_Rot
+    100222: Shied_armo_1_Rot_2
+    100224: Shied_armo_1_Rot_2_2
+    100226: Shied_armo_2
+    100228: Shied_armo_2_Bar
+    100230: Shied_armo_2_Pos_jnt
+    100232: Shied_armo_2_Rot
+    100234: Shied_armo_2_Rot_2
+    100236: Shied_armo_2_tip
+    100238: Shied_armo_3
+    100240: Shied_armo_3_Bar
+    100242: Shied_armo_3_Pos_jnt
+    100244: Shied_armo_3_Rot
+    100246: Shied_armo_3_Rot_2
+    100248: Shied_armo_3_tip
+    100250: Shied_armo_4
+    100252: Shied_armo_4_Pos_jnt
+    100254: Shied_armo_4_Rot
+    100256: SHouder_arm_horn
+    100258: SHouder_arm_horn_2
+    100260: Shoudler_Arm
+    100262: Shoudler_Arm_2
+    100264: Shoulder_armo_1
+    100266: Shoulder_armo_1_2
+    100268: Shoulder_armo_2
+    100270: Shoulder_armo_2_2
+    100272: Spine_1_jnt
+    100274: Spine_2_jnt
+    100276: under_mouth
+    400000: arm_horn
+    400002: arm_horn_1
+    400004: arm_horn_1_2
+    400006: arm_horn_2
+    400008: arm_horn_2_2
+    400010: arm_horn_2_3
+    400012: Armo_etc
+    400014: Armo_etc_jnt
+    400016: armor_acc
+    400018: armor_acc_2
+    400020: armor_acc_3
+    400022: armor_acc_4
+    400024: back_spine_2_jnt
+    400026: back_spine_3_jnt
+    400028: back_spine_4_jnt
+    400030: //RootNode
+    400032: Boss_body
+    400034: boss_body
+    400036: Boss_Helmet
+    400038: Boss_Pelvis_jnt
+    400040: Boss_shoes
+    400042: Burcle
+    400044: devil_face
+    400046: devil_face_2
+    400048: devil_face_3
+    400050: devil_face_4
+    400052: eye
+    400054: face
+    400056: Helmet
+    400058: Helmet_Horn
+    400060: horn
+    400062: horn_2
+    400064: horn_2_2
+    400066: horn_3
+    400068: horn_3_2
+    400070: horn_4
+    400072: jaw_jnt
+    400074: jaw_tip
+    400076: Lf_acc_tip
+    400078: Lf_arm_A_hand_jnt
+    400080: Lf_arm_A_thumb_jnt
+    400082: Lf_arm_acc_jnt
+    400084: Lf_arm_B_hand_jnt
+    400086: Lf_arm_B_thumb_jnt
+    400088: Lf_arm_elbow_jnt
+    400090: Lf_arm_shoulder_jnt
+    400092: Lf_arm_wrist_jnt
+    400094: Lf_hand_tip
+    400096: Lf_leg_Ankle_jnt
+    400098: Lf_leg_Knee_jnt
+    400100: Lf_leg_thigh_jnt
+    400102: Lf_leg_tip
+    400104: Lf_shoulder_acc_jnt
+    400106: Lf_thumb_tip
+    400108: Lf_under_eye1
+    400110: Lf_under_eye2
+    400112: Lf_under_eye3
+    400114: Lf_under_mouth1
+    400116: Lf_under_mouth2
+    400118: Lf_up_eye1
+    400120: Lf_up_eye2
+    400122: Lf_up_eye3
+    400124: Lf_up_eye4
+    400126: Lf_up_mouth1
+    400128: Lf_up_mouth2
+    400130: manto_burcle_1
+    400132: manto_burcle_2
+    400134: manto_burcle_3
+    400136: manto_burcle_4
+    400138: Monster_Boss_jnt
+    400140: Monster_Boss_MD
+    400142: mouth
+    400144: neck_jnt
+    400146: neck_tip
+    400148: Rt_acc_tip
+    400150: Rt_arm_A_hand_jnt
+    400152: Rt_arm_A_hand_jnt_2
+    400154: Rt_arm_A_thumb_jnt
+    400156: Rt_arm_acc_jnt
+    400158: Rt_arm_B_hand_jnt
+    400160: Rt_arm_B_hand_jnt_2
+    400162: Rt_arm_B_thumb_jnt
+    400164: Rt_arm_elbow_jnt
+    400166: Rt_arm_shoulder_jnt
+    400168: Rt_arm_wrist_jnt
+    400170: Rt_hand_tip
+    400172: Rt_hand_tip_2
+    400174: Rt_leg_Ankle_jnt
+    400176: Rt_leg_Knee_jnt
+    400178: Rt_leg_thigh_jnt
+    400180: Rt_leg_tip
+    400182: Rt_shoulder_acc_jnt
+    400184: Rt_thumb_tip
+    400186: Rt_under_eye1
+    400188: Rt_under_eye2
+    400190: Rt_under_eye3
+    400192: Rt_under_mouth1
+    400194: Rt_under_mouth2
+    400196: Rt_up_eye1
+    400198: Rt_up_eye2
+    400200: Rt_up_eye3
+    400202: Rt_up_eye4
+    400204: Rt_up_mouth1
+    400206: Rt_up_mouth2
+    400208: Shied_armo1_tip
+    400210: Shied_armo1_tip_2
+    400212: Shied_armo_1
+    400214: Shied_armo_1_Bar
+    400216: Shied_armo_1_Bar_2
+    400218: Shied_armo_1_Pos_jnt
+    400220: Shied_armo_1_Rot
+    400222: Shied_armo_1_Rot_2
+    400224: Shied_armo_1_Rot_2_2
+    400226: Shied_armo_2
+    400228: Shied_armo_2_Bar
+    400230: Shied_armo_2_Pos_jnt
+    400232: Shied_armo_2_Rot
+    400234: Shied_armo_2_Rot_2
+    400236: Shied_armo_2_tip
+    400238: Shied_armo_3
+    400240: Shied_armo_3_Bar
+    400242: Shied_armo_3_Pos_jnt
+    400244: Shied_armo_3_Rot
+    400246: Shied_armo_3_Rot_2
+    400248: Shied_armo_3_tip
+    400250: Shied_armo_4
+    400252: Shied_armo_4_Pos_jnt
+    400254: Shied_armo_4_Rot
+    400256: SHouder_arm_horn
+    400258: SHouder_arm_horn_2
+    400260: Shoudler_Arm
+    400262: Shoudler_Arm_2
+    400264: Shoulder_armo_1
+    400266: Shoulder_armo_1_2
+    400268: Shoulder_armo_2
+    400270: Shoulder_armo_2_2
+    400272: Spine_1_jnt
+    400274: Spine_2_jnt
+    400276: under_mouth
+    4300000: arm_horn
+    4300002: arm_horn_2
+    4300004: arm_horn_1
+    4300006: arm_horn_2_2
+    4300008: arm_horn_2_3
+    4300010: arm_horn_1_2
+    4300012: Boss_body
+    4300014: Boss_shoes
+    4300016: Helmet_Horn
+    4300018: Helmet
+    4300020: Shoulder_armo_1
+    4300022: Shoulder_armo_2
+    4300024: SHouder_arm_horn
+    4300026: Shoulder_armo_1_2
+    4300028: Shoulder_armo_2_2
+    4300030: SHouder_arm_horn_2
+    4300032: manto_burcle_1
+    4300034: devil_face
+    4300036: horn_3
+    4300038: manto_burcle_2
+    4300040: devil_face_2
+    4300042: horn_2_2
+    4300044: manto_burcle_3
+    4300046: devil_face_3
+    4300048: horn_3_2
+    4300050: manto_burcle_4
+    4300052: devil_face_4
+    4300054: horn_4
+    4300056: Shied_armo_1_Bar
+    4300058: Shied_armo_1_Rot
+    4300060: Shied_armo_2_Bar
+    4300062: Shied_armo_2_Rot
+    4300064: Shied_armo_3_Bar
+    4300066: Shied_armo_3_Rot
+    4300068: Shied_armo_1_Bar_2
+    4300070: Shied_armo_1_Rot_2
+    7400000: Boss_Win
+    7400002: Boss_Idle
+    7400004: Boss_Trap
+    7400006: Boss_Thorw
+    7400008: Boss_Hit
+    7400010: Boss_Death
+    9500000: //RootNode
+    13700000: arm_horn
+    13700002: arm_horn_1
+    13700004: arm_horn_1_2
+    13700006: arm_horn_2
+    13700008: arm_horn_2_2
+    13700010: arm_horn_2_3
+    13700012: Boss_body
+    13700014: Boss_shoes
+    13700016: devil_face
+    13700018: devil_face_2
+    13700020: devil_face_3
+    13700022: devil_face_4
+    13700024: Helmet
+    13700026: Helmet_Horn
+    13700028: horn_2_2
+    13700030: horn_3
+    13700032: horn_3_2
+    13700034: horn_4
+    13700036: manto_burcle_1
+    13700038: manto_burcle_2
+    13700040: manto_burcle_3
+    13700042: manto_burcle_4
+    13700044: Shied_armo_1_Bar
+    13700046: Shied_armo_1_Bar_2
+    13700048: Shied_armo_1_Rot
+    13700050: Shied_armo_1_Rot_2
+    13700052: Shied_armo_2_Bar
+    13700054: Shied_armo_2_Rot
+    13700056: Shied_armo_3_Bar
+    13700058: Shied_armo_3_Rot
+    13700060: SHouder_arm_horn
+    13700062: SHouder_arm_horn_2
+    13700064: Shoulder_armo_1
+    13700066: Shoulder_armo_1_2
+    13700068: Shoulder_armo_2
+    13700070: Shoulder_armo_2_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Boss_Win
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster_Boss_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2/Shied_armo1_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2/Shied_armo_2_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2/Shied_armo_3_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot/Shied_armo1_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt/Lf_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt/Rt_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/back_spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_3_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_4_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt/Lf_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt/Lf_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt/Lf_acc_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/jaw_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/neck_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2/Rt_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_hand_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt/Rt_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt/Rt_acc_tip
+        weight: 1
+      - path: Monster_Boss_MD
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/devil_face
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/horn_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/devil_face_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/devil_face_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/horn_3_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/devil_face_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/horn_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Bar_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Rot_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_shoes
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_1
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_1_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_3
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet_Horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/SHouder_arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/SHouder_arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_1_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss_Idle
+      takeName: CINEMA_4D_Main
+      firstFrame: 110
+      lastFrame: 580
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster_Boss_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2/Shied_armo1_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2/Shied_armo_2_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2/Shied_armo_3_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot/Shied_armo1_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt/Lf_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt/Rt_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/back_spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_3_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_4_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt/Lf_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt/Lf_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt/Lf_acc_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/jaw_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/neck_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2/Rt_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_hand_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt/Rt_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt/Rt_acc_tip
+        weight: 1
+      - path: Monster_Boss_MD
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/devil_face
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/horn_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/devil_face_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/devil_face_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/horn_3_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/devil_face_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/horn_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Bar_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Rot_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_shoes
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_1
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_1_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_3
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet_Horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/SHouder_arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/SHouder_arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_1_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss_Trap
+      takeName: CINEMA_4D_Main
+      firstFrame: 590
+      lastFrame: 690
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster_Boss_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2/Shied_armo1_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2/Shied_armo_2_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2/Shied_armo_3_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot/Shied_armo1_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt/Lf_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt/Rt_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/back_spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_3_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_4_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt/Lf_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt/Lf_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt/Lf_acc_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/jaw_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/neck_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2/Rt_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_hand_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt/Rt_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt/Rt_acc_tip
+        weight: 1
+      - path: Monster_Boss_MD
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/devil_face
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/horn_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/devil_face_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/devil_face_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/horn_3_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/devil_face_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/horn_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Bar_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Rot_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_shoes
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_1
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_1_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_3
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet_Horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/SHouder_arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/SHouder_arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_1_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss_Thorw
+      takeName: CINEMA_4D_Main
+      firstFrame: 705
+      lastFrame: 770
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster_Boss_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2/Shied_armo1_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2/Shied_armo_2_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2/Shied_armo_3_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot/Shied_armo1_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt/Lf_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt/Rt_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/back_spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_3_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_4_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt/Lf_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt/Lf_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt/Lf_acc_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/jaw_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/neck_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2/Rt_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_hand_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt/Rt_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt/Rt_acc_tip
+        weight: 1
+      - path: Monster_Boss_MD
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/devil_face
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/horn_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/devil_face_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/devil_face_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/horn_3_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/devil_face_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/horn_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Bar_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Rot_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_shoes
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_1
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_1_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_3
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet_Horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/SHouder_arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/SHouder_arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_1_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss_Hit
+      takeName: CINEMA_4D_Main
+      firstFrame: 780
+      lastFrame: 880
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster_Boss_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2/Shied_armo1_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2/Shied_armo_2_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2/Shied_armo_3_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot/Shied_armo1_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt/Lf_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt/Rt_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/back_spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_3_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_4_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt/Lf_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt/Lf_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt/Lf_acc_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/jaw_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/neck_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2/Rt_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_hand_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt/Rt_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt/Rt_acc_tip
+        weight: 1
+      - path: Monster_Boss_MD
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/devil_face
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/horn_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/devil_face_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/devil_face_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/horn_3_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/devil_face_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/horn_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Bar_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Rot_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_shoes
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_1
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_1_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_3
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet_Horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/SHouder_arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/SHouder_arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_1_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Boss_Death
+      takeName: CINEMA_4D_Main
+      firstFrame: 900
+      lastFrame: 979
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster_Boss_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_1_Pos_jnt/Shied_armo_1_Rot_2_2/Shied_armo1_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_2_Pos_jnt/Shied_armo_2_Rot_2/Shied_armo_2_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_3_Pos_jnt/Shied_armo_3_Rot_2/Shied_armo_3_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Armo_etc_jnt/Shied_armo_4_Pos_jnt/Shied_armo_4_Rot/Shied_armo1_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Lf_leg_thigh_jnt/Lf_leg_Knee_jnt/Lf_leg_Ankle_jnt/Lf_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Rt_leg_thigh_jnt/Rt_leg_Knee_jnt/Rt_leg_Ankle_jnt/Rt_leg_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/back_spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_3_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/back_spine_4_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_hand_jnt/Lf_arm_B_hand_jnt/Lf_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_arm_elbow_jnt/Lf_arm_wrist_jnt/Lf_arm_A_thumb_jnt/Lf_arm_B_thumb_jnt/Lf_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Lf_arm_shoulder_jnt/Lf_shoulder_acc_jnt/Lf_acc_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Lf_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_under_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye3
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/eye/Rt_up_eye4
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Lf_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/face/mouth/Rt_up_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/jaw_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Lf_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth1
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/jaw_jnt/under_mouth/Rt_under_mouth2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/neck_jnt/neck_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_arm_A_hand_jnt_2/Rt_arm_B_hand_jnt_2/Rt_hand_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_hand_jnt/Rt_arm_B_hand_jnt/Rt_hand_tip_2
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_arm_elbow_jnt/Rt_arm_wrist_jnt/Rt_arm_A_thumb_jnt/Rt_arm_B_thumb_jnt/Rt_thumb_tip
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt
+        weight: 1
+      - path: Monster_Boss_jnt/Boss_Pelvis_jnt/Spine_1_jnt/Spine_2_jnt/Rt_arm_shoulder_jnt/Rt_shoulder_acc_jnt/Rt_acc_tip
+        weight: 1
+      - path: Monster_Boss_MD
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/devil_face
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_1/armor_acc/horn_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/devil_face_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_2/armor_acc_2/horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/devil_face_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_3/armor_acc_3/horn_3_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/devil_face_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Burcle/manto_burcle_4/armor_acc_4/horn_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_1/Shied_armo_1_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_2/Shied_armo_2_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Bar
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_3/Shied_armo_3_Rot
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Bar_2
+        weight: 1
+      - path: Monster_Boss_MD/Armo_etc/Shied_armo_4/Shied_armo_1_Rot_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_body
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/Boss_shoes
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_1
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn/arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_1_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_2
+        weight: 1
+      - path: Monster_Boss_MD/boss_body/horn_2/arm_horn_2_3
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet
+        weight: 1
+      - path: Monster_Boss_MD/Boss_Helmet/Helmet_Horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/SHouder_arm_horn
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_1
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm/Shoulder_armo_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/SHouder_arm_horn_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_1_2
+        weight: 1
+      - path: Monster_Boss_MD/Shoudler_Arm_2/Shoulder_armo_2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

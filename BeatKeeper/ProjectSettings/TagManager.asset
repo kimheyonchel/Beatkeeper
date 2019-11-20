@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - S_BNote
+  - S_RNote
+  - Key
+  - Setting
+  - B_Bullet
+  - R_Bullet
+  - R_Monster
+  - B_Monster
+  - R_Controller
+  - L_Controller
+  - rn1
+  - L_RNote
+  - B_Shield
+  - R_Shield
+  - Shield
+  - GameStart
+  - MainMenu
+  - ReStart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

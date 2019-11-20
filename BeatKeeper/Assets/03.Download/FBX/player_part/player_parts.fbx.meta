@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: c8172d502104453448db5000e930c927
+timeCreated: 1569492784
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CINEMA_4D_Editor
+    100002: player_center
+    100004: player_center_base_1
+    100006: player_center_base_2
+    100008: player_part
+    100010: //RootNode
+    100012: player_side_tower_left
+    100014: player_side_tower_left_1
+    100016: player_side_tower_left_2
+    100018: player_side_tower_left_3
+    100020: player_side_tower_left_banner
+    100022: player_side_tower_right
+    100024: player_side_tower_right_1
+    100026: player_side_tower_right_2
+    100028: player_side_tower_right_3
+    100030: player_side_tower_right_banner
+    400000: CINEMA_4D_Editor
+    400002: player_center
+    400004: player_center_base_1
+    400006: player_center_base_2
+    400008: player_part
+    400010: //RootNode
+    400012: player_side_tower_left
+    400014: player_side_tower_left_1
+    400016: player_side_tower_left_2
+    400018: player_side_tower_left_3
+    400020: player_side_tower_left_banner
+    400022: player_side_tower_right
+    400024: player_side_tower_right_1
+    400026: player_side_tower_right_2
+    400028: player_side_tower_right_3
+    400030: player_side_tower_right_banner
+    2300000: player_center_base_1
+    2300002: player_center_base_2
+    2300004: player_side_tower_left_1
+    2300006: player_side_tower_left_2
+    2300008: player_side_tower_left_3
+    2300010: player_side_tower_left_banner
+    2300012: player_side_tower_right_1
+    2300014: player_side_tower_right_2
+    2300016: player_side_tower_right_3
+    2300018: player_side_tower_right_banner
+    3300000: player_center_base_1
+    3300002: player_center_base_2
+    3300004: player_side_tower_left_1
+    3300006: player_side_tower_left_2
+    3300008: player_side_tower_left_3
+    3300010: player_side_tower_left_banner
+    3300012: player_side_tower_right_1
+    3300014: player_side_tower_right_2
+    3300016: player_side_tower_right_3
+    3300018: player_side_tower_right_banner
+    4300000: player_side_tower_right_banner
+    4300002: player_side_tower_right_1
+    4300004: player_side_tower_right_2
+    4300006: player_side_tower_right_3
+    4300008: player_side_tower_left_banner
+    4300010: player_side_tower_left_1
+    4300012: player_side_tower_left_2
+    4300014: player_side_tower_left_3
+    4300016: player_center_base_1
+    4300018: player_center_base_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
